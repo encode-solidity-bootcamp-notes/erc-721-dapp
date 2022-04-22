@@ -1,7 +1,7 @@
 {
-  "name": "dapp-starter",
+  "name": "erc-721-dapp",
   "version": "1.0.0",
-  "description": "next.js + hardhat starter with scripts",
+  "description": "homework 9 interacting with NFTs using hardhat + next.js",
   "scripts": {
     "install": "npm run client -- install && npm run solidity -- install",
     "build": "npm run solidity:build && npm run client:build",
